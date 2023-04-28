@@ -1,4 +1,4 @@
-### I started thisw game following the code along with the React [Tik-Tac-Toe tutorial](https://react.dev/learn/tutorial-tic-tac-toe#setup-for-the-tutorial). After following and finshing the tutorial, I decided to change a few things to make it more user friendly. I played around with the css to make the game bigger and feel more natural, I also changes some of the JavaScript to hightlight the winnging combo like the game recomended at the end. Overall this was a really informative tutorial and a fun challenge towards the end. 
+### I started this game following the code along with the React [Tik-Tac-Toe tutorial](https://react.dev/learn/tutorial-tic-tac-toe#setup-for-the-tutorial). After following and finshing the tutorial, I decided to change a few things to make it more user friendly. I played around with the css to make the game bigger and feel more natural, I also changes some of the JavaScript to hightlight the winnging combo like the game recomended at the end. Overall this was a really informative tutorial and a fun challenge towards the end. 
 
 # Getting Started with Create React App
 
